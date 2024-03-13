@@ -1,0 +1,9 @@
+announcement:
+  long: 10
+  random: false
+  Test: '文字1'
+  List:
+      - '公告1'
+      - '公告2'
+      - '公告3'
+      - '公告3'
